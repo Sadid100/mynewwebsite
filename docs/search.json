@@ -1,23 +1,58 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Effect of Seaweed-supplemented dairy cow manure on Greenhouse gas emission from soils"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "Effect of Seaweed-supplemented dairy cow manure on Greenhouse gas emission from soils"
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
     "section": "Project 2",
-    "text": "Project 2"
+    "text": "Project 2\nSpatial and Temporal Trends of Soil Carbon Stocks in Response to Climate Variability: A 30-Year GIS-Based Assessment"
   },
   {
     "objectID": "projects.html#project-3",
     "href": "projects.html#project-3",
     "title": "Projects",
     "section": "Project 3",
-    "text": "Project 3"
+    "text": "Project 3\nGIS-Based Mapping of Soil Organic Carbon Dynamics and Permafrost Thaw in Alaska"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "Completing PhD\nPublishing 5 papers in Nature\nGetting jobs in Industry\n\n\n\n\nGraduated from University of Dhaka\n\n\n\nLecturer in SB College in Dhaka, Bangladesh\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "Completing PhD\nPublishing 5 papers in Nature\nGetting jobs in Industry"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "Graduated from University of Dhaka"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "Lecturer in SB College in Dhaka, Bangladesh"
   }
 ]

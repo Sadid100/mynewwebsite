@@ -3,7 +3,10 @@ title: "Projects"
 ---
 
 ## Project 1
+Effect of Seaweed-supplemented dairy cow manure on Greenhouse gas emission from soils
 
 ## Project 2
+Spatial and Temporal Trends of Soil Carbon Stocks in Response to Climate Variability: A 30-Year GIS-Based Assessment
 
 ## Project 3
+GIS-Based Mapping of Soil Organic Carbon Dynamics and Permafrost Thaw in Alaska
